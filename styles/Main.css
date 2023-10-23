@@ -280,9 +280,6 @@ nav ul li {
   bottom: 50%;
 }
 
-
-
-
 .socicon {
   width: 2rem;
   height: 2rem;
@@ -293,4 +290,16 @@ footer {
   padding: 1.25rem;
   text-align: center;
   margin: 2rem 0 0;
+}
+
+.scroll-up {
+  position: fixed;
+  right: 0.5%;
+  bottom: 3%;
+  cursor: pointer;
+}
+
+.up-arrow {
+  width: 3rem;
+  height: 3rem;
 }
