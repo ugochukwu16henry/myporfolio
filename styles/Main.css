@@ -333,3 +333,32 @@ nav {
   nav ul.show {
     transform: translateX(0);
   }
+
+  .hero {
+    margin-top: -4rem;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .hero img {
+        height: 37.5rem;
+        width: 30rem;
+    }
+
+  .bio {
+    margin-top: -7rem;
+    width: 20.5rem;
+  }
+
+  .more-about {
+    margin-top: 2rem;
+    padding: 1rem 3.5rem;
+  }
+
+  .more-about h2 {
+    text-align: center;
+  }
+
+  .more-about p {
+    text-align: justify;
+  }
