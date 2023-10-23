@@ -325,7 +325,6 @@ nav {
 
    nav ul li {
     margin: 8px;
-    background-color: #fcfcfc;
   }
   .burger-menu {
     display: block;
@@ -349,6 +348,7 @@ nav {
   .bio {
     margin-top: -7rem;
     width: 20.5rem;
+    background-color: #fcfcfc;
   }
 
   .more-about {
