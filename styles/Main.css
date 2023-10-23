@@ -348,7 +348,6 @@ nav {
   .bio {
     margin-top: -7rem;
     width: 20.5rem;
-    background-color: #ee6363;
   }
 
   .more-about {
@@ -385,6 +384,7 @@ nav {
 
   .bio {
     width: 18.3rem;
+    background-color: #a17a69;
   }
 
   .project-container {
