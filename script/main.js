@@ -8,14 +8,15 @@ scrollUp.addEventListener("click", () => {
     behavior: "smooth",
   });
 });
-burger.addEventListener("click", () => {
-  ul.classList.toggle("show");
-});
 // Nav hamburgerburger selections
 
 const burger = document.querySelector("#burger-menu");
 const ul = document.querySelector("nav ul");
 const nav = document.querySelector("nav");
+
+burger.addEventListener("click", () => {
+  ul.classList.toggle("show");
+});
 
 // Close hamburger menu when a link is clicked
 
