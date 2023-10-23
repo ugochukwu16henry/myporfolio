@@ -310,7 +310,7 @@ footer {
 nav {
     padding: 1.5rem 1rem;
   }
-  
+
   nav ul {
     position: fixed;
     background-color: var(--bg-color);
@@ -325,4 +325,11 @@ nav {
 
    nav ul li {
     margin: 8px;
+  }
+  .burger-menu {
+    display: block;
+  }
+
+  nav ul.show {
+    transform: translateX(0);
   }
